@@ -28,3 +28,10 @@ To run the calculator locally:
 
 Contributions are welcome! Please fork this repository and submit a pull request.
 
+## Video Demo
+
+You can download or view a demo video of the calculator:
+
+- [Download Video](https://raw.githubusercontent.com/your-username/repository-name/branch-name/path-to-file/VideoCalculator.mp4)
+
+
